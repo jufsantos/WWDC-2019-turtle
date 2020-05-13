@@ -1,2 +1,2 @@
-# WWDC-2019-turtle
-WWDC 2019 scholarship playgroundBook - Turtle in Trash
+# WWDC-2019-city
+WWDC 2020 scholarship
